@@ -1,0 +1,6 @@
+https://www.geeksforgeeks.org/tokenizing-a-string-cpp/
+https://github.com/SFML/SFML/wiki/Source:-Simple-File-Logger-(by-mateandmetal)
+https://www.geeksforgeeks.org/grep-command-in-unixlinux/
+https://www.tutorialspoint.com/cplusplus/cpp_files_streams
+https://www.geeksforgeeks.org/file-handling-c-classes/
+https://docs.microsoft.com/en-us/cpp/build/walkthrough-creating-and-using-a-static-library-cpp?view=vs-2019
