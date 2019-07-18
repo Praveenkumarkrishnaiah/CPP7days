@@ -62,6 +62,10 @@ For example,
 */
  }
  ```
+ ### Steps to compile the code
+ 1. run ```g++ -std=c++11 grep.cpp -o grep```  
+ 2. ```./grep <pattern> <filename>```  
+ 
  
  ### Links
  
